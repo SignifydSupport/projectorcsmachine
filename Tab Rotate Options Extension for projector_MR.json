@@ -67,8 +67,16 @@
      "url" : "https://signifyd.loggly.com/dashboards/dashboard/403e97b4-02b6-4821-bb08-74f33a6165d2/view",
      "duration" : 45,
      "tabReloadIntervalSeconds": 1800
-   }
+   },
 
+
+
+ {
+     "url" : "https://app.datadoghq.com/dashboard/4f6-3aq-u5b/etl-to-redshift-etlredshiftbackfilldatalagoon?screenId=4f6-3aq-u5b&screenName=etl-to-redshift-etlredshiftbackfilldatalagoon&from_ts=1559851087141&live=true&tile_size=m&to_ts=1559854687141
+",
+     "duration" : 45,
+     "tabReloadIntervalSeconds": 3600
+   }
 
 
 ]
