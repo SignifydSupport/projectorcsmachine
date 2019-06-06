@@ -1,0 +1,75 @@
+{
+ "settingsReloadIntervalMinutes": 1,
+ "fullscreen": false,
+ "autoStart": false,
+ "websites" : [
+   
+   {
+     "url" : "https://app.datadoghq.com/dash/572931/pmmslos-caseprocess-slo-graphs-auto?live=true&page=0&is_auto=false&from_ts=1531936767434&to_ts=1531940367434&tile_size=m&tv_mode=true",
+     "duration" : 30,
+     "tabReloadIntervalSeconds": 3600
+   },
+   {
+     "url" : "https://app.datadoghq.com/dash/69445/case-processing-time-board?live=true&page=0&is_auto=false&from_ts=1531936776777&to_ts=1531940376777&tile_size=m&tv_mode=true",
+     "duration" : 30,
+     "tabReloadIntervalSeconds": 3600
+   },
+
+  {
+     "url" : "https://looker.signifyd.com/dashboards/85",
+     "duration" : 45,
+     "tabReloadIntervalSeconds": 600
+   },
+
+   {
+     "url" : "https://app.datadoghq.com/dash/68417/signifydgeneric-webhooks-high-level?live=true&page=0&is_auto=false&from_ts=1531936781799&to_ts=1531940381799&tile_size=m&tv_mode=true",
+     "duration" : 20,
+     "tabReloadIntervalSeconds": 3600
+   },
+
+
+
+   {
+     "url" : "https://looker.signifyd.com/dashboards/281",
+     "duration" : 30,
+     "tabReloadIntervalSeconds": 3600
+   },
+
+   {
+     "url" : "https://app.datadoghq.com/dashboard/vtp-pw8-i7s/pmmslos-signifydwebhooksfailureratio-slo-graphs-auto?tile_size=m",
+     "duration" : 20,
+     "tabReloadIntervalSeconds": 3600
+   },
+
+
+
+   {
+     "url" : "https://looker.signifyd.com/dashboards/279",
+     "duration" : 30,
+     "tabReloadIntervalSeconds": 3600
+   },
+
+   {
+     "url" : "https://app.datadoghq.com/dash/166185/platform-deployment-dashboard?live=true&page=0&is_auto=false&from_ts=1542657766179&to_ts=1542661366179&tile_size=m&tv_mode=true",
+     "duration" : 30,
+     "tabReloadIntervalSeconds": 3600
+   },
+
+ {
+     "url" : "https://looker.signifyd.com/dashboards/77",
+     "duration" : 45,
+     "tabReloadIntervalSeconds": 1800
+   },
+
+
+
+ {
+     "url" : "https://signifyd.loggly.com/dashboards/dashboard/403e97b4-02b6-4821-bb08-74f33a6165d2/view",
+     "duration" : 45,
+     "tabReloadIntervalSeconds": 1800
+   }
+
+
+
+]
+}
