@@ -6,12 +6,12 @@
    
    {
      "url" : "https://app.datadoghq.com/dash/572931/pmmslos-caseprocess-slo-graphs-auto?live=true&page=0&is_auto=false&from_ts=1531936767434&to_ts=1531940367434&tile_size=m&tv_mode=true",
-     "duration" : 30,
+     "duration" : 45,
      "tabReloadIntervalSeconds": 3600
    },
    {
      "url" : "https://app.datadoghq.com/dash/69445/case-processing-time-board?live=true&page=0&is_auto=false&from_ts=1531936776777&to_ts=1531940376777&tile_size=m&tv_mode=true",
-     "duration" : 30,
+     "duration" : 45,
      "tabReloadIntervalSeconds": 3600
    },
 
@@ -72,8 +72,7 @@
 
 
  {
-     "url" : "https://app.datadoghq.com/dashboard/4f6-3aq-u5b/etl-to-redshift-etlredshiftbackfilldatalagoon?screenId=4f6-3aq-u5b&screenName=etl-to-redshift-etlredshiftbackfilldatalagoon&from_ts=1559851087141&live=true&tile_size=m&to_ts=1559854687141
-",
+     "url" : "https://app.datadoghq.com/dashboard/4f6-3aq-u5b/etl-to-redshift-etlredshiftbackfilldatalagoon?screenId=4f6-3aq-u5b&screenName=etl-to-redshift-etlredshiftbackfilldatalagoon&from_ts=1559851087141&live=true&tile_size=m&to_ts=1559854687141",
      "duration" : 45,
      "tabReloadIntervalSeconds": 3600
    }
