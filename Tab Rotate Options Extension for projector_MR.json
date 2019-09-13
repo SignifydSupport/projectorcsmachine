@@ -9,6 +9,16 @@
      "duration" : 45,
      "tabReloadIntervalSeconds": 3600
    },
+  
+     {
+     "url" : "https://app.datadoghq.com/dashboard/xja-42t-8fh/elasticsearch-writer-monitors-auto",
+     "duration" : 45,
+     "tabReloadIntervalSeconds": 3600
+   },
+  
+  
+  
+  
    {
      "url" : "https://app.datadoghq.com/dash/69445/case-processing-time-board?live=true&page=0&is_auto=false&from_ts=1531936776777&to_ts=1531940376777&tile_size=m&tv_mode=true",
      "duration" : 45,
