@@ -79,6 +79,12 @@
      "tabReloadIntervalSeconds": 1800
    },
 
+    {
+     "url" : "  https://app.datadoghq.com/dashboard/yii-vcs-zx9/cs---support-case-update-and-create-async--sync-apis?from_ts=1568405225894&live=true&tile_size=m&to_ts=1568408825894&tv_mode=false",
+     "duration" : 30,
+     "tabReloadIntervalSeconds": 3600
+   },
+  
 
 
  {
