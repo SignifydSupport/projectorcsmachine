@@ -6,7 +6,7 @@
    
    {
      "url" : "https://app.datadoghq.com/dash/572931/pmmslos-caseprocess-slo-graphs-auto?live=true&page=0&is_auto=false&from_ts=1531936767434&to_ts=1531940367434&tile_size=m&tv_mode=true",
-     "duration" : 45,
+     "duration" : 70,
      "tabReloadIntervalSeconds": 3600
    },
   
@@ -21,7 +21,7 @@
   
    {
      "url" : "https://app.datadoghq.com/dash/69445/case-processing-time-board?live=true&page=0&is_auto=false&from_ts=1531936776777&to_ts=1531940376777&tile_size=m&tv_mode=true",
-     "duration" : 45,
+     "duration" : 70,
      "tabReloadIntervalSeconds": 3600
    },
 
@@ -55,13 +55,13 @@
 
    {
      "url" : "https://looker.signifyd.com/dashboards/279",
-     "duration" : 30,
+     "duration" : 70,
      "tabReloadIntervalSeconds": 3600
    },
 
    {
      "url" : "https://app.datadoghq.com/dash/166185/platform-deployment-dashboard?live=true&page=0&is_auto=false&from_ts=1542657766179&to_ts=1542661366179&tile_size=m&tv_mode=true",
-     "duration" : 30,
+     "duration" : 70,
      "tabReloadIntervalSeconds": 3600
    },
 
@@ -81,7 +81,7 @@
 
     {
      "url" : "  https://app.datadoghq.com/dashboard/yii-vcs-zx9/cs---support-case-update-and-create-async--sync-apis?from_ts=1568405225894&live=true&tile_size=m&to_ts=1568408825894&tv_mode=false",
-     "duration" : 30,
+     "duration" : 90,
      "tabReloadIntervalSeconds": 3600
    },
   
