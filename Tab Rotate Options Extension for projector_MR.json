@@ -10,6 +10,14 @@
      "tabReloadIntervalSeconds": 3600
    },
   
+  
+     {
+     "url" : "https://looker.signifyd.com/dashboards/719",
+     "duration" : 80,
+     "tabReloadIntervalSeconds": 900
+   },
+  
+  
      {
      "url" : "https://app.datadoghq.com/dashboard/xja-42t-8fh/elasticsearch-writer-monitors-auto",
      "duration" : 45,
