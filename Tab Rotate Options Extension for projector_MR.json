@@ -42,7 +42,7 @@
    },
 
   {
-     "url" : "https://looker.signifyd.com/dashboards/85",
+     "url" : "https://app.datadoghq.com/dashboard/cbd-fix-ej5?amp%3Bfrom_ts=1575573013017&amp%3Btile_size=m&amp%3Bto_ts=1575576613017&from_ts=1578441038235&live=true&tile_size=m&to_ts=1578444638235&tv_mode=true",
      "duration" : 45,
      "tabReloadIntervalSeconds": 10000
    },
@@ -52,7 +52,6 @@
      "duration" : 20,
      "tabReloadIntervalSeconds": 3600
    },
-
 
 
    {
@@ -67,13 +66,6 @@
      "tabReloadIntervalSeconds": 3600
    },
 
-
-
-   {
-     "url" : "https://looker.signifyd.com/dashboards/279",
-     "duration" : 70,
-     "tabReloadIntervalSeconds": 3600
-   },
 
    {
      "url" : "https://app.datadoghq.com/dash/166185/platform-deployment-dashboard?live=true&page=0&is_auto=false&from_ts=1542657766179&to_ts=1542661366179&tile_size=m&tv_mode=true",
