@@ -99,7 +99,7 @@
      "url" : "https://app.datadoghq.com/dashboard/4f6-3aq-u5b/etl-to-redshift-etlredshiftbackfilldatalagoon?screenId=4f6-3aq-u5b&screenName=etl-to-redshift-etlredshiftbackfilldatalagoon&from_ts=1559851087141&live=true&tile_size=m&to_ts=1559854687141&tv_mode=false",
      "duration" : 45,
      "tabReloadIntervalSeconds": 3600
-   }
+   },
 
       {
      "url" : "https://app.datadoghq.com/dashboard/bi2-87r-57m?from_ts=1579884678894&live=true&tile_size=m&to_ts=1579899078894",
@@ -107,8 +107,12 @@
      "tabReloadIntervalSeconds": 3600
    },
   
-  
-  
+        {
+     "url" : "  https://app.datadoghq.com/dashboard/6y7-hy2-kiu/monitoring-bridge-async-case-ingestion-auto?from_ts=1581109673636&live=true&tile_size=m&to_ts=1581113273636
+",
+     "duration" : 90,
+     "tabReloadIntervalSeconds": 3600
+   }
   
   
 
