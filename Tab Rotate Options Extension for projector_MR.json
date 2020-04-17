@@ -22,7 +22,7 @@
      {
      "url" : "https://looker.signifyd.com/dashboards/719",
      "duration" : 80,
-     "tabReloadIntervalSeconds": 900
+     "tabReloadIntervalSeconds": 1000000
    },
   
   
@@ -57,7 +57,7 @@
    {
      "url" : "https://looker.signifyd.com/dashboards/281",
      "duration" : 30,
-     "tabReloadIntervalSeconds": 10000
+     "tabReloadIntervalSeconds": 1000000
    },
 
    {
@@ -76,7 +76,7 @@
  {
      "url" : "https://looker.signifyd.com/dashboards/77",
      "duration" : 45,
-     "tabReloadIntervalSeconds": 10000
+     "tabReloadIntervalSeconds": 1000000
    },
 
 
